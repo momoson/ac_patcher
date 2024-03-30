@@ -88,3 +88,4 @@ Tested / Confirmed with:
 - 4.10.01075
 - 4.10.04071
 - 4.10.07061
+- 5.1.2.42 (now called Secure Client)
